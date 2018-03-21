@@ -1,0 +1,20 @@
+C:\TFS\Sell-In (Venda Atacado)\Sell-In\src\Domain\obj\Debug\net461\Domain.csprojResolveAssemblyReference.cache
+C:\TFS\Sell-In (Venda Atacado)\Sell-In\src\Domain\obj\Debug\net461\Domain.csproj.CoreCompileInputs.cache
+C:\TFS\Sell-In (Venda Atacado)\Sell-In\src\Domain\obj\Debug\net461\Domain.AssemblyInfoInputs.cache
+C:\TFS\Sell-In (Venda Atacado)\Sell-In\src\Domain\obj\Debug\net461\Domain.AssemblyInfo.cs
+C:\TFS\Sell-In (Venda Atacado)\Sell-In\src\Domain\bin\Debug\net461\Domain.dll
+C:\TFS\Sell-In (Venda Atacado)\Sell-In\src\Domain\bin\Debug\net461\Domain.pdb
+C:\TFS\Sell-In (Venda Atacado)\Sell-In\src\Domain\bin\Debug\net461\Core.dll
+C:\TFS\Sell-In (Venda Atacado)\Sell-In\src\Domain\bin\Debug\net461\Core.pdb
+C:\TFS\Sell-In (Venda Atacado)\Sell-In\src\Domain\obj\Debug\net461\Domain.dll
+C:\TFS\Sell-In (Venda Atacado)\Sell-In\src\Domain\obj\Debug\net461\Domain.pdb
+C:\TFS\Sell In\Sell-In\src\Domain\bin\Debug\net461\Domain.dll
+C:\TFS\Sell In\Sell-In\src\Domain\bin\Debug\net461\Domain.pdb
+C:\TFS\Sell In\Sell-In\src\Domain\bin\Debug\net461\Core.dll
+C:\TFS\Sell In\Sell-In\src\Domain\bin\Debug\net461\Core.pdb
+C:\TFS\Sell In\Sell-In\src\Domain\obj\Debug\net461\Domain.csprojResolveAssemblyReference.cache
+C:\TFS\Sell In\Sell-In\src\Domain\obj\Debug\net461\Domain.csproj.CoreCompileInputs.cache
+C:\TFS\Sell In\Sell-In\src\Domain\obj\Debug\net461\Domain.AssemblyInfoInputs.cache
+C:\TFS\Sell In\Sell-In\src\Domain\obj\Debug\net461\Domain.AssemblyInfo.cs
+C:\TFS\Sell In\Sell-In\src\Domain\obj\Debug\net461\Domain.dll
+C:\TFS\Sell In\Sell-In\src\Domain\obj\Debug\net461\Domain.pdb

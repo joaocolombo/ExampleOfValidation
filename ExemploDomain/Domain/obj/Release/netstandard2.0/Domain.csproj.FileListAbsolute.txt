@@ -1,0 +1,22 @@
+C:\TFS\Sell-In (Venda Atacado)\Sell-In\src\Domain\bin\Release\netstandard2.0\Domain.deps.json
+C:\TFS\Sell-In (Venda Atacado)\Sell-In\src\Domain\bin\Release\netstandard2.0\Domain.dll
+C:\TFS\Sell-In (Venda Atacado)\Sell-In\src\Domain\bin\Release\netstandard2.0\Domain.pdb
+C:\TFS\Sell-In (Venda Atacado)\Sell-In\src\Domain\bin\Release\netstandard2.0\Core.dll
+C:\TFS\Sell-In (Venda Atacado)\Sell-In\src\Domain\bin\Release\netstandard2.0\Core.pdb
+C:\TFS\Sell-In (Venda Atacado)\Sell-In\src\Domain\obj\Release\netstandard2.0\Domain.csprojResolveAssemblyReference.cache
+C:\TFS\Sell-In (Venda Atacado)\Sell-In\src\Domain\obj\Release\netstandard2.0\Domain.csproj.CoreCompileInputs.cache
+C:\TFS\Sell-In (Venda Atacado)\Sell-In\src\Domain\obj\Release\netstandard2.0\Domain.AssemblyInfoInputs.cache
+C:\TFS\Sell-In (Venda Atacado)\Sell-In\src\Domain\obj\Release\netstandard2.0\Domain.AssemblyInfo.cs
+C:\TFS\Sell-In (Venda Atacado)\Sell-In\src\Domain\obj\Release\netstandard2.0\Domain.dll
+C:\TFS\Sell-In (Venda Atacado)\Sell-In\src\Domain\obj\Release\netstandard2.0\Domain.pdb
+C:\TFS\Sell In\Sell-In\src\Domain\bin\Release\netstandard2.0\Domain.deps.json
+C:\TFS\Sell In\Sell-In\src\Domain\bin\Release\netstandard2.0\Domain.dll
+C:\TFS\Sell In\Sell-In\src\Domain\bin\Release\netstandard2.0\Domain.pdb
+C:\TFS\Sell In\Sell-In\src\Domain\bin\Release\netstandard2.0\Core.dll
+C:\TFS\Sell In\Sell-In\src\Domain\bin\Release\netstandard2.0\Core.pdb
+C:\TFS\Sell In\Sell-In\src\Domain\obj\Release\netstandard2.0\Domain.csprojResolveAssemblyReference.cache
+C:\TFS\Sell In\Sell-In\src\Domain\obj\Release\netstandard2.0\Domain.csproj.CoreCompileInputs.cache
+C:\TFS\Sell In\Sell-In\src\Domain\obj\Release\netstandard2.0\Domain.AssemblyInfoInputs.cache
+C:\TFS\Sell In\Sell-In\src\Domain\obj\Release\netstandard2.0\Domain.AssemblyInfo.cs
+C:\TFS\Sell In\Sell-In\src\Domain\obj\Release\netstandard2.0\Domain.dll
+C:\TFS\Sell In\Sell-In\src\Domain\obj\Release\netstandard2.0\Domain.pdb

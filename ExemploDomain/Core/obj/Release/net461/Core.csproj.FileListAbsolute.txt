@@ -1,0 +1,16 @@
+C:\TFS\Sell-In (Venda Atacado)\Sell-In\src\Core\bin\Release\net461\Core.dll
+C:\TFS\Sell-In (Venda Atacado)\Sell-In\src\Core\bin\Release\net461\Core.pdb
+C:\TFS\Sell-In (Venda Atacado)\Sell-In\src\Core\obj\Release\net461\Core.csproj.CoreCompileInputs.cache
+C:\TFS\Sell-In (Venda Atacado)\Sell-In\src\Core\obj\Release\net461\Core.AssemblyInfoInputs.cache
+C:\TFS\Sell-In (Venda Atacado)\Sell-In\src\Core\obj\Release\net461\Core.AssemblyInfo.cs
+C:\TFS\Sell-In (Venda Atacado)\Sell-In\src\Core\obj\Release\net461\Core.dll
+C:\TFS\Sell-In (Venda Atacado)\Sell-In\src\Core\obj\Release\net461\Core.pdb
+C:\TFS\Sell-In (Venda Atacado)\Sell-In\src\Core\obj\Release\net461\Core.csprojResolveAssemblyReference.cache
+C:\TFS\Sell In\Sell-In\src\Core\bin\Release\net461\Core.dll
+C:\TFS\Sell In\Sell-In\src\Core\bin\Release\net461\Core.pdb
+C:\TFS\Sell In\Sell-In\src\Core\obj\Release\net461\Core.csprojResolveAssemblyReference.cache
+C:\TFS\Sell In\Sell-In\src\Core\obj\Release\net461\Core.csproj.CoreCompileInputs.cache
+C:\TFS\Sell In\Sell-In\src\Core\obj\Release\net461\Core.AssemblyInfoInputs.cache
+C:\TFS\Sell In\Sell-In\src\Core\obj\Release\net461\Core.AssemblyInfo.cs
+C:\TFS\Sell In\Sell-In\src\Core\obj\Release\net461\Core.dll
+C:\TFS\Sell In\Sell-In\src\Core\obj\Release\net461\Core.pdb
